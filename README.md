@@ -3,4 +3,4 @@
 ### Python, Lua, C, HTML, CSS, Javascript
 
 ## Currently Working on
-### [Polygon Revenge](https://github.com/Mysendell/Polygon-Revenge), along with [Ingrid](https://github.com/ingridJeanine), a simple HTML/JS based game we're making as a scholl assignment
+### [Polygon Revenge](https://github.com/Mysendell/Polygon-Revenge), along with [Ingrid](https://github.com/ingridJeanine), a simple HTML/JS based game we're making as a school assignment
