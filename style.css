@@ -4,11 +4,13 @@ body{
     background-color: black;
     color: white;
     font-family: Orbitron, sans-serif;
+    font-size: 2vmax;
     margin: 0;
     padding: 0;
 }
 
 header, footer{
+    box-sizing: border-box;
     height: 10vh;
     background-color: #333;
     color: white;
@@ -20,11 +22,13 @@ header, footer{
 }
 
 header h1{
-    font-size: 1.5em;
+    border-right: 2px solid white;
+    width: 20vw;
+    font-size: 3rem;
 }
 
 header li{
-    font-size: 1.2em;
+    font-size: 1.2rem;
 }
 
 main{
@@ -37,6 +41,7 @@ main{
 
 a{
     color: white;
+    font-size: 2rem;
 }
 
 a:hover{
